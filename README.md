@@ -24,9 +24,9 @@
 
 
 **🌱Projects** <br/>
-| **Date** | **contents** | **Algorithm** |
-|:--------:|:--------:|:--------:|
-| 2021.09 ~ 2021.12 |  <a href="https://github.com/LisaJeoung/news_analysis"/>트위터 반응을 이용한 여론분석</a> | Sentiment Analysis, Classfication |
-| 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/Emergency-Binary-Classification"/>음성 데이터를 활용한 위급상황 판별</a> | LSTM, CNN, MultiModal, Classfication |
-| 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/GingerMarket"/>생강마켓</a> | 웹 사이트 개발 |
-| 2022.04 ~ 2022.09 | 리뷰 데이터를 활용한 핫플 추천</a> | Sentiment Analysis, Recommendation system |
+| **Date** | **contents** | **Algorithm** | **Role** |
+|:--------:|:--------:|:--------:|:--------:|
+| 2021.09 ~ 2021.12 |  <a href="https://github.com/LisaJeoung/news_analysis"/>트위터 반응을 이용한 여론분석</a> | Sentiment Analysis, Classfication |TF-IDF, 전처리|
+| 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/Emergency-Binary-Classification"/>음성 데이터를 활용한 위급상황 판별</a> | LSTM, CNN, MultiModal, Classfication | 전처리, LSTM, Multimodal |
+| 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/GingerMarket"/>생강마켓</a> | 웹 사이트 개발 | 회원가입, 로그인 |
+| 2022.04 ~ 2022.09 | 리뷰 데이터를 활용한 핫플 추천</a> | Sentiment Analysis, Recommendation system | 크롤링, 전처리, 추천시스템 구축, 시각화 |
