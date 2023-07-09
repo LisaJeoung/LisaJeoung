@@ -30,3 +30,4 @@
 | 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/Emergency-Binary-Classification"/>음성 데이터를 활용한 위급상황 판별</a> | LSTM, CNN, MultiModal, Classfication | 전처리, LSTM, Multimodal |
 | 2022.03 ~ 2022.08 | <a href="https://github.com/LisaJeoung/GingerMarket"/>생강마켓</a> | 웹 사이트 개발 | 회원가입, 로그인 |
 | 2022.04 ~ 2022.09 |  <a href="https://github.com/LisaJeoung/Recommendation-System_-restaurant-cafe"/>리뷰 데이터를 활용한 핫플 추천</a> | Sentiment Analysis, Recommendation system | 크롤링, 전처리, 추천시스템 구축, 시각화 |
+| 2023.05 |  <a href="https://github.com/LisaJeoung/Spring"/>금융플랫폼</a> | 웹 사이트 개발 | 리뷰, 달력, 금융소식, 소비습관 분석 |
